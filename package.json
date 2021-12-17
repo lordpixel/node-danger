@@ -1,0 +1,12 @@
+{
+  "name": "node-danger",
+  "version": "0.0.0",
+  "description": "A Docker image with node and danger.js included",
+  "main": "index.js",
+  "author": "Manu Ramirez <manu.ramirez@espressive.com>",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "danger": "^10.7.1"
+  }
+}
